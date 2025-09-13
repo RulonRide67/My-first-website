@@ -1,1 +1,2 @@
 # My-first-website
+I have learned the basic principles of HTML construction. I use VS code to create it. Now, I know how to create an HTML file, add text in various sizes, images, links, emojis, and create tables, forms, and buttons. Additionally, I publish my files on GitHub so that anyone with a link can access them. Currently I can rate my experience with WEB positively and will try to study more. 
